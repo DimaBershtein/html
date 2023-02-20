@@ -1,0 +1,19 @@
+body {
+	background-image: url("images/brake.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+	
+}
+
+.fontncolor {
+	font-family: cursive;
+	color: red;
+	
+}
+
+#fontsize {
+	font-size: 25px;
+}
+
